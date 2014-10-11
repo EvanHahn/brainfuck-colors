@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "dependencies": {
+    "spectra": "^0.2.3",
+    "string.prototype.repeat": "^0.2.0",
+    "ticker": "git://github.com/EvanHahn/ticker.git"
+  },
+  "devDependencies": {
+    "del": "^0.1.3",
+    "gulp": "^3.8.8",
+    "gulp-webpack": "^0.4.1"
+  }
+}
