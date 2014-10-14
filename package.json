@@ -3,7 +3,8 @@
   "dependencies": {
     "spectra": "^0.2.3",
     "string.prototype.repeat": "^0.2.0",
-    "ticker": "git://github.com/EvanHahn/ticker.git"
+    "ticker": "git://github.com/EvanHahn/ticker.git",
+    "brainfuck2000": "^0.1.0"
   },
   "devDependencies": {
     "del": "^0.1.3",
